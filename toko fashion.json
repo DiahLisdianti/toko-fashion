@@ -1,0 +1,143 @@
+{
+  "products": [
+    {
+      "id": "P001",
+      "category": "Pakaian Pria",
+      "name": "Kemeja Kasual",
+      "description": "Kemeja kasual pria berbahan katun lembut.",
+      "weight": "250g",
+      "price": 150000,
+      "stock": 20,
+      "attributes": {
+        "size": ["S", "M", "L", "XL"],
+        "color": ["Putih", "Hitam"],
+        "material": "Katun"
+      }
+    },
+    {
+      "id": "P002",
+      "category": "Pakaian Pria",
+      "name": "Jaket Denim",
+      "description": "Jaket denim trendy dengan kantong depan.",
+      "weight": "500g",
+      "price": 350000,
+      "stock": 15,
+      "attributes": {
+        "size": ["M", "L", "XL"],
+        "color": ["Biru", "Hitam"],
+        "material": "Denim"
+      }
+    },
+    {
+      "id": "P003",
+      "category": "Pakaian Pria",
+      "name": "Celana Jeans",
+      "description": "Celana jeans slim fit yang nyaman dipakai.",
+      "weight": "600g",
+      "price": 275000,
+      "stock": 25,
+      "attributes": {
+        "size": ["28", "30", "32", "34"],
+        "color": ["Biru", "Hitam"],
+        "material": "Denim"
+      }
+    },
+    {
+      "id": "P004",
+      "category": "Pakaian Wanita",
+      "name": "Dress Kasual",
+      "description": "Dress kasual wanita dengan motif bunga.",
+      "weight": "300g",
+      "price": 200000,
+      "stock": 30,
+      "attributes": {
+        "size": ["S", "M", "L"],
+        "color": ["Merah", "Biru", "Kuning"],
+        "material": "Katun"
+      }
+    },
+    {
+      "id": "P005",
+      "category": "Pakaian Wanita",
+      "name": "Blus Lengan Panjang",
+      "description": "Blus wanita dengan lengan panjang dan bahan lembut.",
+      "weight": "200g",
+      "price": 180000,
+      "stock": 20,
+      "attributes": {
+        "size": ["S", "M", "L", "XL"],
+        "color": ["Putih", "Pink", "Hijau"],
+        "material": "Sifon"
+      }
+    },
+    {
+      "id": "P006",
+      "category": "Pakaian Wanita",
+      "name": "Rok Mini",
+      "description": "Rok mini trendi yang cocok untuk acara santai.",
+      "weight": "150g",
+      "price": 120000,
+      "stock": 25,
+      "attributes": {
+        "size": ["S", "M", "L"],
+        "color": ["Hitam", "Merah"],
+        "material": "Polyester"
+      }
+    },
+    {
+      "id": "P007",
+      "category": "Pakaian Wanita",
+      "name": "Jaket Kulit",
+      "description": "Jaket kulit elegan dengan desain modern.",
+      "weight": "800g",
+      "price": 550000,
+      "stock": 10,
+      "attributes": {
+        "size": ["M", "L"],
+        "color": ["Coklat", "Hitam"],
+        "material": "Kulit"
+      }
+    },
+    {
+      "id": "P008",
+      "category": "Pakaian Pria",
+      "name": "Sepatu Sneakers",
+      "description": "Sepatu sneakers nyaman dengan sol karet.",
+      "weight": "700g",
+      "price": 300000,
+      "stock": 40,
+      "attributes": {
+        "size": ["39", "40", "41", "42", "43"],
+        "color": ["Putih", "Hitam"],
+        "material": "Kulit Sintetis"
+      }
+    },
+    {
+      "id": "P009",
+      "category": "Pakaian Wanita",
+      "name": "Tas Tangan",
+      "description": "Tas tangan wanita elegan berbahan kulit sintetis.",
+      "weight": "500g",
+      "price": 250000,
+      "stock": 20,
+      "attributes": {
+        "color": ["Merah", "Hitam"],
+        "material": "Kulit Sintetis"
+      }
+    },
+    {
+      "id": "P010",
+      "category": "Pakaian Pria",
+      "name": "Kaos Polos",
+      "description": "Kaos polos pria dengan berbagai pilihan warna.",
+      "weight": "200g",
+      "price": 100000,
+      "stock": 50,
+      "attributes": {
+        "size": ["S", "M", "L", "XL"],
+        "color": ["Putih", "Hitam", "Abu-abu"],
+        "material": "Katun"
+      }
+    }
+  ]
+}
